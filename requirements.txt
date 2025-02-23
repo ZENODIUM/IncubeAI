@@ -1,3 +1,2 @@
 youtube-transcript-api
 plotly
-'crewai[tools]'
