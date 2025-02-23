@@ -1,5 +1,7 @@
 # Inqube AI
 
+![inqube_thumbnail](https://github.com/user-attachments/assets/e3ffb021-53ea-4984-83b9-728f509c4fca)
+
 **Tagline**: Delivering infinite product insights from every dimension...
 
 Inqube AI is an advanced competitor analysis tool designed to help businesses, startups, and entrepreneurs gain deep insights into their competitors' products and services. Leveraging AI and machine learning, the tool automates the process of gathering, analyzing, and visualizing data from multiple sources, including e-commerce platforms, websites, and YouTube. It provides actionable insights to help users make informed decisions, identify market opportunities, and refine their strategies.
