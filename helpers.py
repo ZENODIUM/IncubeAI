@@ -5,8 +5,8 @@ import re
 from crewai_tools import ScrapeWebsiteTool
 from youtube_transcript_api import YouTubeTranscriptApi
 
-os.environ["SERPER_API_KEY"] = "80cbe6bcf3ecf30eeef6effaa1ec09eb9d631d7f"
-os.environ["YOUTUBE_API_KEY"] = "AIzaSyA1yN2irDyHuUXTOGPGzskqEjsw5vwDUxU"  # Replace with your YouTube API key
+os.environ["SERPER_API_KEY"] = ""
+os.environ["YOUTUBE_API_KEY"] = ""  # Replace with your YouTube API key
 
 
 
